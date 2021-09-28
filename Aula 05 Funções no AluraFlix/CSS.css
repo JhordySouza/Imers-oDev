@@ -35,8 +35,8 @@ body {
 }
 
 #listaFilmes img {
-  margin: 10px;
-  max-height: 250px;
+  margin: 1px;
+  max-height: 11px;
 }
 
 .form-wrapper {
